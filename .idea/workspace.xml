@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2860471c-cdd2-4f8c-83d6-7f726ec44e9b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2dxBxNUcHAIZE74sRPV4iBz6LHg" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.Priority">
+    <configuration name="Priority" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="team120TestNG_Fall2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.Day15_testNG_Framework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests.Day15_testNG_Framework" />
+      <option name="MAIN_CLASS_NAME" value="Tests.Day15_testNG_Framework.Priority" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Priority.toplamaTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="team120TestNG_Fall2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.Day15_testNG_Framework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests.Day15_testNG_Framework" />
+      <option name="MAIN_CLASS_NAME" value="Tests.Day15_testNG_Framework.Priority" />
+      <option name="METHOD_NAME" value="toplamaTesti" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Priority" />
+        <item itemvalue="TestNG.Priority.toplamaTesti" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2860471c-cdd2-4f8c-83d6-7f726ec44e9b" name="Changes" comment="" />
+      <created>1710940097414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710940097414</updated>
+    </task>
+    <servers />
+  </component>
+</project>

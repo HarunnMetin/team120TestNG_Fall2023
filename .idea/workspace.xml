@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2860471c-cdd2-4f8c-83d6-7f726ec44e9b" name="Changes" comment="" />
+    <list default="true" id="2860471c-cdd2-4f8c-83d6-7f726ec44e9b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/Day15_testNG_Framework/C02_DependsOnMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Utilites/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/Day15_testNG_Framework/Priority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/Day15_testNG_Framework/C01_Priority.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,17 +22,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2dxBxNUcHAIZE74sRPV4iBz6LHg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="TestNG.Priority">
-    <configuration name="Priority" type="TestNG" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="TestNG.C02_DependsOnMethods">
+    <configuration name="C01_Priority" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="team120TestNG_Fall2023" />
       <extension name="coverage">
         <pattern>
@@ -36,7 +45,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Tests.Day15_testNG_Framework" />
-      <option name="MAIN_CLASS_NAME" value="Tests.Day15_testNG_Framework.Priority" />
+      <option name="MAIN_CLASS_NAME" value="Tests.Day15_testNG_Framework.C01_Priority" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -44,7 +53,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Priority.toplamaTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_DependsOnMethods" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="team120TestNG_Fall2023" />
       <extension name="coverage">
         <pattern>
@@ -53,8 +62,61 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Tests.Day15_testNG_Framework" />
-      <option name="MAIN_CLASS_NAME" value="Tests.Day15_testNG_Framework.Priority" />
-      <option name="METHOD_NAME" value="toplamaTesti" />
+      <option name="MAIN_CLASS_NAME" value="Tests.Day15_testNG_Framework.C02_DependsOnMethods" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_DependsOnMethods.amazonTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="team120TestNG_Fall2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.Day15_testNG_Framework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests.Day15_testNG_Framework" />
+      <option name="MAIN_CLASS_NAME" value="Tests.Day15_testNG_Framework.C02_DependsOnMethods" />
+      <option name="METHOD_NAME" value="amazonTesti" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_DependsOnMethods.ilkUrunTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="team120TestNG_Fall2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.Day15_testNG_Framework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests.Day15_testNG_Framework" />
+      <option name="MAIN_CLASS_NAME" value="Tests.Day15_testNG_Framework.C02_DependsOnMethods" />
+      <option name="METHOD_NAME" value="ilkUrunTesti" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_DependsOnMethods.nutellaTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="team120TestNG_Fall2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.Day15_testNG_Framework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests.Day15_testNG_Framework" />
+      <option name="MAIN_CLASS_NAME" value="Tests.Day15_testNG_Framework.C02_DependsOnMethods" />
+      <option name="METHOD_NAME" value="nutellaTesti" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -64,8 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Priority" />
-        <item itemvalue="TestNG.Priority.toplamaTesti" />
+        <item itemvalue="TestNG.C02_DependsOnMethods" />
+        <item itemvalue="TestNG.C02_DependsOnMethods.ilkUrunTesti" />
+        <item itemvalue="TestNG.C02_DependsOnMethods.nutellaTesti" />
+        <item itemvalue="TestNG.C02_DependsOnMethods.amazonTesti" />
+        <item itemvalue="TestNG.C01_Priority" />
       </list>
     </recent_temporary>
   </component>

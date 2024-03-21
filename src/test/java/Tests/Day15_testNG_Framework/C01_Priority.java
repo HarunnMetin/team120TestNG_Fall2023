@@ -3,7 +3,7 @@ package Tests.Day15_testNG_Framework;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class Priority {
+public class C01_Priority {
 
     int a =20;
     int b = 10;

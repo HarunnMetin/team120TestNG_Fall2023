@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2860471c-cdd2-4f8c-83d6-7f726ec44e9b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/Day15_testNG_Framework/C02_DependsOnMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Utilites/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/Day16TestNG_Framework/C01_DriverClassKullanimi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/Day16TestNG_Framework/C02_PageClassKullanimi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/Day15_testNG_Framework/Priority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/Day15_testNG_Framework/C01_Priority.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/Day15_testNG_Framework/C02_DependsOnMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/Day15_testNG_Framework/C02_DependsOnMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,17 +36,35 @@
   }
 }</component>
   <component name="RunManager" selected="TestNG.C02_DependsOnMethods">
-    <configuration name="C01_Priority" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_DriverClassKullanimi" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="team120TestNG_Fall2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tests.Day15_testNG_Framework.*" />
+          <option name="PATTERN" value="Tests.Day16TestNG_Framework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Tests.Day15_testNG_Framework" />
-      <option name="MAIN_CLASS_NAME" value="Tests.Day15_testNG_Framework.C01_Priority" />
+      <option name="PACKAGE_NAME" value="Tests.Day16TestNG_Framework" />
+      <option name="MAIN_CLASS_NAME" value="Tests.Day16TestNG_Framework.C01_DriverClassKullanimi" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C01_DriverClassKullanimi.amazonTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="team120TestNG_Fall2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.Day16TestNG_Framework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests.Day16TestNG_Framework" />
+      <option name="MAIN_CLASS_NAME" value="Tests.Day16TestNG_Framework.C01_DriverClassKullanimi" />
+      <option name="METHOD_NAME" value="amazonTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -64,24 +82,6 @@
       <option name="PACKAGE_NAME" value="Tests.Day15_testNG_Framework" />
       <option name="MAIN_CLASS_NAME" value="Tests.Day15_testNG_Framework.C02_DependsOnMethods" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_DependsOnMethods.amazonTesti" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="team120TestNG_Fall2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tests.Day15_testNG_Framework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Tests.Day15_testNG_Framework" />
-      <option name="MAIN_CLASS_NAME" value="Tests.Day15_testNG_Framework.C02_DependsOnMethods" />
-      <option name="METHOD_NAME" value="amazonTesti" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -127,10 +127,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.C02_DependsOnMethods" />
-        <item itemvalue="TestNG.C02_DependsOnMethods.ilkUrunTesti" />
+        <item itemvalue="TestNG.C01_DriverClassKullanimi" />
+        <item itemvalue="TestNG.C01_DriverClassKullanimi.amazonTest" />
         <item itemvalue="TestNG.C02_DependsOnMethods.nutellaTesti" />
-        <item itemvalue="TestNG.C02_DependsOnMethods.amazonTesti" />
-        <item itemvalue="TestNG.C01_Priority" />
+        <item itemvalue="TestNG.C02_DependsOnMethods.ilkUrunTesti" />
       </list>
     </recent_temporary>
   </component>

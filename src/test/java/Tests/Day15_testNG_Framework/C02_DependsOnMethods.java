@@ -27,8 +27,7 @@ public class C02_DependsOnMethods {
     @Test (dependsOnMethods = "amazonTesti")
     public void nutellaTesti(){
 
-        WebElement aramaKutusu = Driver.getDriver().findElement(By.xpath("//input[@name='field-keywords']"));
-        aramaKutusu.sendKeys("Nutella"+ Keys.ENTER);
+        Driver.getDriver().findElement(By.id("twotabsearchtextbox")).sendKeys("Nutella"+Keys.ENTER);
 
         WebElement sonucYazisi = Driver.getDriver().findElement(By.xpath("//div[@class='a-section a-spacing-small a-spacing-top-small']"));
 
